@@ -2,7 +2,7 @@
 
 ### AI-Powered Financial Journey & Decision-Support Platform
 
-JeevanFlow AI is an intelligent financial decision-support platform that helps users understand their financial health, analyze major financial goals, identify funding gaps, and explore the potential impact of financial decisions.
+JeevanFlow is an intelligent financial decision-support platform that helps users understand their financial health, analyze major financial goals, identify funding gaps, and explore the potential impact of financial decisions.
 
 The platform combines **Machine Learning, Explainable AI, Financial Analytics, and What-If Simulation** into a single application.
 
