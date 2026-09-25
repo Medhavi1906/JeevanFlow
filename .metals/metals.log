@@ -1,0 +1,595 @@
+2026.09.13 15:30:33 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow' for client Visual Studio Code 1.137.0.
+2026.09.13 15:30:33 INFO  Memory monitor started
+2026.09.13 15:30:33 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.13 15:31:09 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\test\java\com\jeevanflow\JeevanFlowApplicationTests.java
+2026.09.13 15:31:09 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java
+2026.09.13 15:31:09 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/JeevanFlowApplication.java. Output:
+
+2026.09.13 15:31:09 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/test/java/com/jeevanflow/JeevanFlowApplicationTests.java. Output:
+
+2026.09.13 15:59:11 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 15:59:11 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java
+Sept 13, 2026 3:59:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.09.13 15:59:11 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 15:59:11 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 15:59:12 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:01:15 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java
+2026.09.13 16:01:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:15 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/Controller/HealthController.java. Output:
+
+2026.09.13 16:01:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:27 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:27 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:27 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/Controller/HealthController.java. Output:
+
+2026.09.13 16:01:27 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:27 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:30 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java
+2026.09.13 16:01:30 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:50 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:01:50 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\Controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 16:08:33 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:33 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java
+2026.09.13 16:08:33 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:34 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:36 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\test\java\com\jeevanflow\JeevanFlowApplicationTests.java. Using fallback presentation compiler.
+2026.09.13 16:08:45 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\test\java\com\jeevanflow\JeevanFlowApplicationTests.java
+Sept 13, 2026 4:08:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2026.09.13 16:08:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\test\java\com\jeevanflow\JeevanFlowApplicationTests.java. Using fallback presentation compiler.
+2026.09.13 16:08:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\test\java\com\jeevanflow\JeevanFlowApplicationTests.java. Using fallback presentation compiler.
+2026.09.13 16:08:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:49 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java
+2026.09.13 16:08:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:08:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:09:02 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:41:53 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:41:53 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java
+2026.09.13 16:41:53 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:41:53 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+2026.09.13 16:41:53 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\JeevanFlowApplication.java. Using fallback presentation compiler.
+Sept 13, 2026 5:00:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.09.13 17:01:23 INFO  Shutting down server
+2026.09.13 17:01:23 INFO  Memory monitor stopped
+2026.09.13 17:01:23 INFO  shutting down Metals
+2026.09.13 17:01:23 INFO  Exiting server
+2026.09.13 17:01:37 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow' for client Visual Studio Code 1.137.0.
+2026.09.13 17:01:37 INFO  Memory monitor started
+2026.09.13 17:01:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.13 17:05:01 INFO  Shutting down server
+2026.09.13 17:05:01 INFO  Memory monitor stopped
+2026.09.13 17:05:01 INFO  shutting down Metals
+2026.09.13 17:05:01 INFO  Exiting server
+2026.09.13 17:05:01 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:330)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1516)
+
+2026.09.13 17:44:31 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow' for client Visual Studio Code 1.137.0.
+2026.09.13 17:44:31 INFO  Memory monitor started
+2026.09.13 17:44:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.13 17:44:33 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:39 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:41 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/model/FinancialProfile.java. Output:
+
+2026.09.13 17:44:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:42 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java
+2026.09.13 17:44:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:42 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java
+2026.09.13 17:44:43 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:44:44 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:45:54 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java. Using fallback presentation compiler.
+2026.09.13 17:46:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java. Using fallback presentation compiler.
+2026.09.13 17:46:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java. Using fallback presentation compiler.
+2026.09.13 17:46:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java. Using fallback presentation compiler.
+2026.09.13 17:46:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java. Using fallback presentation compiler.
+2026.09.13 17:46:10 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java
+2026.09.13 17:46:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java. Using fallback presentation compiler.
+2026.09.13 17:46:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/repository/FinancialProfileRepository.java. Output:
+
+2026.09.13 17:46:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\repository\FinancialProfileRepository.java. Using fallback presentation compiler.
+2026.09.13 17:46:54 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:08 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java
+2026.09.13 17:47:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/FinancialProfileService.java. Output:
+
+2026.09.13 17:47:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:09 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java
+2026.09.13 17:47:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:34 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialProfileService.java. Using fallback presentation compiler.
+2026.09.13 17:47:36 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:47:36 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java
+2026.09.13 17:47:36 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:47:36 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:47:36 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:47:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:47:59 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:48:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:48:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:48:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:48:02 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:48:02 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java
+2026.09.13 17:48:02 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:48:02 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/FinancialProfileController.java. Output:
+
+2026.09.13 17:48:02 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:48:03 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java
+2026.09.13 17:48:03 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialProfileController.java. Using fallback presentation compiler.
+2026.09.13 17:51:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:04 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java
+2026.09.13 17:51:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:18 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:19 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:19 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:19 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:19 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:20 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:20 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:22 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:26 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:27 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java
+2026.09.13 17:51:27 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:51:27 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/model/FinancialProfile.java. Output:
+
+2026.09.13 17:57:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\model\FinancialProfile.java. Using fallback presentation compiler.
+2026.09.13 17:57:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java. Using fallback presentation compiler.
+2026.09.13 17:58:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java. Using fallback presentation compiler.
+2026.09.13 17:58:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java. Using fallback presentation compiler.
+2026.09.13 17:58:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java. Using fallback presentation compiler.
+2026.09.13 17:58:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java. Using fallback presentation compiler.
+2026.09.13 17:58:06 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java
+2026.09.13 17:58:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java. Using fallback presentation compiler.
+2026.09.13 17:58:06 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/FinancialHealthService.java. Output:
+
+2026.09.13 17:58:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialHealthService.java. Using fallback presentation compiler.
+2026.09.13 17:59:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java. Using fallback presentation compiler.
+2026.09.13 17:59:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java. Using fallback presentation compiler.
+2026.09.13 17:59:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java. Using fallback presentation compiler.
+2026.09.13 17:59:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java. Using fallback presentation compiler.
+2026.09.13 17:59:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java. Using fallback presentation compiler.
+2026.09.13 17:59:15 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java
+2026.09.13 17:59:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java. Using fallback presentation compiler.
+2026.09.13 17:59:16 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/FinancialHealthController.java. Output:
+
+2026.09.13 17:59:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialHealthController.java. Using fallback presentation compiler.
+2026.09.13 19:58:53 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java. Using fallback presentation compiler.
+2026.09.13 19:59:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java. Using fallback presentation compiler.
+2026.09.13 19:59:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java. Using fallback presentation compiler.
+2026.09.13 19:59:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java. Using fallback presentation compiler.
+2026.09.13 19:59:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java. Using fallback presentation compiler.
+2026.09.13 19:59:08 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java
+2026.09.13 19:59:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java. Using fallback presentation compiler.
+2026.09.13 19:59:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/WhatIfService.java. Output:
+
+2026.09.13 19:59:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\WhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:00:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:00:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:00:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:00:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:00:18 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:00:18 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java
+2026.09.13 20:00:18 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:00:18 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/WhatIfController.java. Output:
+
+2026.09.13 20:00:18 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\WhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:02:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:02:58 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:02:58 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:02:58 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:02:59 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:02:59 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java
+2026.09.13 20:02:59 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:02:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/LoanWhatIfService.java. Output:
+
+2026.09.13 20:02:59 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\LoanWhatIfService.java. Using fallback presentation compiler.
+2026.09.13 20:03:32 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:03:39 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:03:39 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:03:39 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:03:39 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:03:40 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java
+2026.09.13 20:03:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:03:39 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/LoanWhatIfController.java. Output:
+
+2026.09.13 20:03:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\LoanWhatIfController.java. Using fallback presentation compiler.
+2026.09.13 20:05:37 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:44 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:44 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:44 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:46 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+Sept 13, 2026 8:05:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 396
+2026.09.13 20:05:46 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:46 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.13 20:05:46 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:46 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:46 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/FinancialFirstAidService.java. Output:
+
+2026.09.13 20:05:47 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:47 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:47 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:05:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.13 20:06:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.13 20:06:22 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.13 20:06:22 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.13 20:06:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.13 20:06:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.13 20:06:24 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java
+2026.09.13 20:06:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.13 20:06:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/FinancialFirstAidController.java. Output:
+
+2026.09.13 20:06:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.13 20:08:22 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.13 20:08:28 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.13 20:08:28 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.13 20:08:28 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.13 20:08:29 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.13 20:08:29 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java
+2026.09.13 20:08:29 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.13 20:08:29 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/ExplainabilityService.java. Output:
+
+2026.09.13 20:08:29 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.13 20:09:02 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 20:09:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 20:09:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 20:09:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 20:09:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 20:09:09 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java
+2026.09.13 20:09:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 20:09:09 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/ExplainabilityController.java. Output:
+
+2026.09.13 20:09:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 20:18:31 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.13 22:42:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 22:42:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 22:42:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\HealthController.java. Using fallback presentation compiler.
+Sept 13, 2026 10:42:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 489
+2026.09.13 22:42:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 22:42:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 22:43:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\HealthController.java. Using fallback presentation compiler.
+2026.09.13 22:59:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\CorsConfig.java. Using fallback presentation compiler.
+2026.09.13 22:59:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\CorsConfig.java. Using fallback presentation compiler.
+2026.09.13 22:59:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\CorsConfig.java. Using fallback presentation compiler.
+2026.09.13 22:59:57 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\CorsConfig.java. Using fallback presentation compiler.
+2026.09.13 22:59:58 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\CorsConfig.java
+2026.09.13 22:59:58 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\CorsConfig.java. Using fallback presentation compiler.
+2026.09.13 22:59:58 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/CorsConfig.java. Output:
+
+2026.09.14 21:52:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:00 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+Sept 14, 2026 9:52:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+2026.09.14 21:52:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+Sept 14, 2026 9:52:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 515
+2026.09.14 21:52:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:03 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:38 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+Sept 14, 2026 9:52:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 528
+2026.09.14 21:52:38 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:38 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:38 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:38 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:39 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:42 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:42 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:42 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:43 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.14 21:52:43 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:43 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/FinancialFirstAidService.java. Output:
+
+2026.09.14 21:52:43 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.14 21:52:44 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:47 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:48 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:48 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:52:50 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:15 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.14 21:54:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:15 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/FinancialFirstAidService.java. Output:
+
+2026.09.14 21:54:15 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.14 21:54:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:49 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 21:54:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:54:56 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java
+2026.09.14 21:54:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:54:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:54:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:12 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:12 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+Sept 14, 2026 9:55:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+2026.09.14 21:55:12 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:12 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:13 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java
+2026.09.14 21:55:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:14 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/FinancialFirstAidController.java. Output:
+
+2026.09.14 21:55:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:51 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:55:57 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:56:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:07 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:08 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:09 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:10 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java
+2026.09.14 21:57:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 21:57:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/FinancialFirstAidController.java. Output:
+
+2026.09.14 22:00:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:11 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:11 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:11 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:12 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:17 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:18 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:18 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java
+2026.09.14 22:00:18 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:18 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/FinancialFirstAidController.java. Output:
+
+2026.09.14 22:00:21 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:23 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:24 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:25 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:27 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:27 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:28 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java
+2026.09.14 22:00:28 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:28 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/FinancialFirstAidController.java. Output:
+
+2026.09.14 22:00:30 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java
+2026.09.14 22:00:30 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\FinancialFirstAidController.java. Using fallback presentation compiler.
+2026.09.14 22:00:32 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:32 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.14 22:00:32 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:32 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:32 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:32 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:33 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:36 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:36 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:40 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:41 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:42 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:43 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:43 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.14 22:00:43 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:43 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/FinancialFirstAidService.java. Output:
+
+2026.09.14 22:00:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:45 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:46 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+2026.09.14 22:00:46 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:48 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:00:48 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.14 22:59:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 22:59:56 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java
+Sept 14, 2026 10:59:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 859
+2026.09.14 22:59:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+Sept 14, 2026 10:59:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 860
+2026.09.14 22:59:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 22:59:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 22:59:58 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 22:59:59 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:01 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:02 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:05 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java
+2026.09.14 23:00:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:00:05 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/ExplainabilityService.java. Output:
+
+2026.09.14 23:00:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\ExplainabilityService.java. Using fallback presentation compiler.
+2026.09.14 23:02:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:06 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java
+2026.09.14 23:02:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:06 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:10 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:11 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:13 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:14 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java
+2026.09.14 23:02:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.14 23:02:14 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/ExplainabilityController.java. Output:
+
+2026.09.14 23:02:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\ExplainabilityController.java. Using fallback presentation compiler.
+2026.09.16 19:30:54 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.16 19:30:54 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java
+Sept 16, 2026 7:30:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 931
+2026.09.16 19:30:54 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.16 19:30:54 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.16 19:30:55 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+2026.09.16 19:30:56 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\FinancialFirstAidService.java. Using fallback presentation compiler.
+Sept 16, 2026 7:40:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 16, 2026 7:40:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 16, 2026 7:41:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 16, 2026 7:41:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 16, 2026 7:43:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 16, 2026 7:43:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 16, 2026 7:44:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.09.17 19:19:55 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\MLIntentService.java. Using fallback presentation compiler.
+2026.09.17 19:20:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\MLIntentService.java. Using fallback presentation compiler.
+2026.09.17 19:20:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\MLIntentService.java. Using fallback presentation compiler.
+2026.09.17 19:20:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\MLIntentService.java. Using fallback presentation compiler.
+2026.09.17 19:20:05 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\MLIntentService.java
+2026.09.17 19:20:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\MLIntentService.java. Using fallback presentation compiler.
+2026.09.17 19:20:05 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/MLIntentService.java. Output:
+
+2026.09.17 19:20:50 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java. Using fallback presentation compiler.
+2026.09.17 19:21:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java. Using fallback presentation compiler.
+2026.09.17 19:21:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java. Using fallback presentation compiler.
+2026.09.17 19:21:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java. Using fallback presentation compiler.
+2026.09.17 19:21:04 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java. Using fallback presentation compiler.
+2026.09.17 19:21:05 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java
+2026.09.17 19:21:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java. Using fallback presentation compiler.
+2026.09.17 19:21:05 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/MLIntentController.java. Output:
+
+2026.09.17 19:21:05 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\MLIntentController.java. Using fallback presentation compiler.
+Sept 17, 2026 7:47:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 17, 2026 7:47:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 17, 2026 7:49:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Sept 17, 2026 7:50:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.09.25 18:42:02 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java. Using fallback presentation compiler.
+2026.09.25 18:42:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java. Using fallback presentation compiler.
+2026.09.25 18:42:14 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java. Using fallback presentation compiler.
+2026.09.25 18:42:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java. Using fallback presentation compiler.
+2026.09.25 18:42:15 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java
+2026.09.25 18:42:15 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java. Using fallback presentation compiler.
+2026.09.25 18:42:16 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/service/JourneyPlanService.java. Output:
+
+2026.09.25 18:42:16 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java
+2026.09.25 18:42:16 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java. Using fallback presentation compiler.
+2026.09.25 18:42:26 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\service\JourneyPlanService.java. Using fallback presentation compiler.
+2026.09.25 18:42:58 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java. Using fallback presentation compiler.
+2026.09.25 18:43:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java. Using fallback presentation compiler.
+2026.09.25 18:43:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java. Using fallback presentation compiler.
+2026.09.25 18:43:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java. Using fallback presentation compiler.
+2026.09.25 18:43:00 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java. Using fallback presentation compiler.
+2026.09.25 18:43:01 WARN  no build target for: C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java
+2026.09.25 18:43:01 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java. Using fallback presentation compiler.
+2026.09.25 18:43:01 WARN  Running javac-semanticdb failed for file:///C:/Users/Medhavi%20Dubey/OneDrive/Desktop/JeevanFlow/backend/src/main/java/com/jeevanflow/controller/JourneyPlanController.java. Output:
+
+2026.09.25 18:43:01 INFO  no build target found for C:\Users\Medhavi Dubey\OneDrive\Desktop\JeevanFlow\backend\src\main\java\com\jeevanflow\controller\JourneyPlanController.java. Using fallback presentation compiler.

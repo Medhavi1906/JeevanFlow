@@ -1,0 +1,186 @@
+text,intent
+"I need money for my sister's wedding",WEDDING
+"I am planning my daughter's marriage",WEDDING
+"I need 4 lakh for my wedding",WEDDING
+"My brother is getting married and I need funds",WEDDING
+"I have a wedding expense coming up",WEDDING
+"I need to arrange money for marriage",WEDDING
+"I am planning a family wedding",WEDDING
+"I need financial help for a marriage ceremony",WEDDING
+"I need funds for my sister wedding",WEDDING
+"My sister is getting married",WEDDING
+"I need to pay for wedding expenses",WEDDING
+"I have marriage expenses next month",WEDDING
+"I need financial planning for my wedding",WEDDING
+"How can I manage my daughter's wedding expenses",WEDDING
+"I need to save money for a wedding",WEDDING
+"My wedding budget is too high",WEDDING
+"I need 5 lakh for my daughter's marriage",WEDDING
+"I need help managing marriage costs",WEDDING
+"I am worried about my wedding expenses",WEDDING
+"I need to arrange funds for my brother's wedding",WEDDING
+"I have a large marriage expense coming up",WEDDING
+"How will my wedding affect my savings",WEDDING
+"I need a financial plan for my sister's wedding",WEDDING
+"I want to plan my wedding finances",WEDDING
+"I need money for marriage arrangements",WEDDING
+"My family wedding is coming soon",WEDDING
+"I need to fund a wedding ceremony",WEDDING
+"I have to pay several wedding bills",WEDDING
+"I want to understand the financial impact of my wedding",WEDDING
+"I need financial help for my sister's marriage",WEDDING
+
+"I want to buy a house",HOUSE
+"I am planning to purchase a home",HOUSE
+"I need a home loan",HOUSE
+"I want to buy a property",HOUSE
+"I need money for a house down payment",HOUSE
+"I am planning to purchase my first home",HOUSE
+"How will buying a house affect my finances",HOUSE
+"I want to take a loan for a property",HOUSE
+"I want to purchase an apartment",HOUSE
+"I need funds for a home purchase",HOUSE
+"I am planning to buy my first house",HOUSE
+"I need a mortgage for my home",HOUSE
+"I want to finance a property purchase",HOUSE
+"I need money for my home down payment",HOUSE
+"I want to know if I can afford a house",HOUSE
+"How much home loan can I afford",HOUSE
+"I am thinking about purchasing property",HOUSE
+"I want to calculate my home loan EMI",HOUSE
+"I need financial planning for buying a house",HOUSE
+"Buying a home may affect my monthly budget",HOUSE
+"I want to buy a flat",HOUSE
+"I need a loan to purchase an apartment",HOUSE
+"I want to plan my finances for a house",HOUSE
+"I am saving for a house down payment",HOUSE
+"I need help planning a property purchase",HOUSE
+"How will a home loan affect my finances",HOUSE
+"I want to understand the cost of buying a house",HOUSE
+"I am planning a home purchase next year",HOUSE
+"I need financial advice for buying property",HOUSE
+"I want to purchase a new home",HOUSE
+
+"I need money for my college fees",EDUCATION
+"I have a large education expense",EDUCATION
+"I need funds for my daughter's education",EDUCATION
+"I need to pay university fees",EDUCATION
+"I am planning for higher education",EDUCATION
+"My college fees have increased",EDUCATION
+"I need financial planning for education",EDUCATION
+"I need money for my child's studies",EDUCATION
+"I need funds for tuition fees",EDUCATION
+"I have to pay my university fees",EDUCATION
+"My son needs money for college",EDUCATION
+"My daughter is going to university",EDUCATION
+"I need to plan for education expenses",EDUCATION
+"I need financial help for my studies",EDUCATION
+"I want to save for my child's education",EDUCATION
+"How can I manage college expenses",EDUCATION
+"I need money for higher studies",EDUCATION
+"I have an upcoming education expense",EDUCATION
+"I need an education loan",EDUCATION
+"How will education expenses affect my savings",EDUCATION
+"I need to pay school fees",EDUCATION
+"My child's education is becoming expensive",EDUCATION
+"I need funds for my daughter's college",EDUCATION
+"I want to plan my child's education financially",EDUCATION
+"I need help managing tuition costs",EDUCATION
+"I need money for university admission",EDUCATION
+"I am worried about education expenses",EDUCATION
+"I need to fund my son's higher education",EDUCATION
+"I want to understand the financial impact of education",EDUCATION
+"I need a financial plan for college fees",EDUCATION
+
+"I lost my job",JOB_LOSS
+"I have become unemployed",JOB_LOSS
+"I was laid off from work",JOB_LOSS
+"I suddenly have no income",JOB_LOSS
+"I am worried because I lost my source of income",JOB_LOSS
+"My company terminated my job",JOB_LOSS
+"I may lose my job soon",JOB_LOSS
+"I need a financial plan after losing my job",JOB_LOSS
+"I was fired from my job",JOB_LOSS
+"I am currently unemployed",JOB_LOSS
+"I lost my source of income",JOB_LOSS
+"My employment ended suddenly",JOB_LOSS
+"I have been laid off",JOB_LOSS
+"I don't have a job anymore",JOB_LOSS
+"My company let me go",JOB_LOSS
+"I am facing a sudden loss of income",JOB_LOSS
+"I am worried about losing my job",JOB_LOSS
+"I may become unemployed",JOB_LOSS
+"My salary has stopped because I lost my job",JOB_LOSS
+"I need help managing finances after job loss",JOB_LOSS
+"How should I manage money after losing my job",JOB_LOSS
+"I need a financial safety plan after unemployment",JOB_LOSS
+"I have no salary right now",JOB_LOSS
+"I lost my employment",JOB_LOSS
+"I am between jobs and have no income",JOB_LOSS
+"My income suddenly stopped",JOB_LOSS
+"I need financial help after being laid off",JOB_LOSS
+"I need to manage my expenses without a job",JOB_LOSS
+"I am facing unemployment",JOB_LOSS
+"I need an emergency financial plan after losing work",JOB_LOSS
+
+"I have a medical emergency",MEDICAL
+"I need money for hospital expenses",MEDICAL
+"My medical bills are very high",MEDICAL
+"I suddenly need money for treatment",MEDICAL
+"My family member needs urgent medical treatment",MEDICAL
+"I need financial help for healthcare expenses",MEDICAL
+"I have an unexpected hospital bill",MEDICAL
+"I need to pay for surgery",MEDICAL
+"I need money for medical treatment",MEDICAL
+"My hospital expenses are increasing",MEDICAL
+"I have a sudden healthcare expense",MEDICAL
+"My mother needs urgent medical treatment",MEDICAL
+"My father has a medical emergency",MEDICAL
+"I need funds for hospital treatment",MEDICAL
+"I have to pay a large medical bill",MEDICAL
+"I need money for surgery",MEDICAL
+"I need help managing medical expenses",MEDICAL
+"My family has an unexpected medical expense",MEDICAL
+"I am worried about hospital costs",MEDICAL
+"I need financial planning for healthcare expenses",MEDICAL
+"My treatment is very expensive",MEDICAL
+"I need to arrange money for medical treatment",MEDICAL
+"I have an urgent healthcare bill",MEDICAL
+"I need funds for an operation",MEDICAL
+"My child's medical treatment is expensive",MEDICAL
+"I need money for emergency healthcare",MEDICAL
+"I have unexpected surgery expenses",MEDICAL
+"I need to manage a large hospital bill",MEDICAL
+"I need financial help for a medical emergency",MEDICAL
+"How will medical expenses affect my savings",MEDICAL
+
+"My car suddenly needs expensive repairs",EXPENSE
+"I have an unexpected expense",EXPENSE
+"I need money for an emergency expense",EXPENSE
+"My expenses suddenly increased",EXPENSE
+"I have a large unexpected bill",EXPENSE
+"I need funds for an urgent expense",EXPENSE
+"Something unexpected happened and I need money",EXPENSE
+"I have a sudden financial expense",EXPENSE
+"My car repair is unexpectedly expensive",EXPENSE
+"I have an urgent bill to pay",EXPENSE
+"I suddenly have a large expense",EXPENSE
+"I need money for an unexpected bill",EXPENSE
+"My household expenses increased suddenly",EXPENSE
+"I have an emergency financial expense",EXPENSE
+"I need funds for an unexpected payment",EXPENSE
+"An unexpected bill has come up",EXPENSE
+"I need to pay for urgent repairs",EXPENSE
+"My expenses are higher than expected",EXPENSE
+"I have a sudden financial burden",EXPENSE
+"I need help managing an unexpected expense",EXPENSE
+"My vehicle needs expensive repairs",EXPENSE
+"I have an unexpected home repair bill",EXPENSE
+"I suddenly need money for repairs",EXPENSE
+"I have an urgent expense this month",EXPENSE
+"I need financial help for a sudden expense",EXPENSE
+"My monthly expenses have suddenly increased",EXPENSE
+"I have an unexpected payment to make",EXPENSE
+"I need to cover a large emergency bill",EXPENSE
+"Something unexpected caused a financial expense",EXPENSE
+"I need money because of a sudden expense",EXPENSE
